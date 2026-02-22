@@ -5,7 +5,7 @@ author: yoavfael
 homepage: https://github.com/yoavfael/credit-repair-skill
 version: 1.0.0
 emoji: 💳
-tags: [credit-repair, personal-finance, credit-score, fico, credit-building, us-finance]
+tags: [credit-repair, personal-finance, credit-score, fico, credit-building, us-finance, credit-check, credit rating, credit-fix]
 ---
 
 # US Credit Score Strategist
